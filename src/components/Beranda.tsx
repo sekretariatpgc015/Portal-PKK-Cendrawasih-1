@@ -73,15 +73,6 @@ export default function Beranda({ onNavigate, news, agendas, onSelectNews }: Ber
                 referrerPolicy="no-referrer"
               />
               {/* Floating Badge */}
-              <div className="absolute bottom-4 left-4 right-4 bg-white/90 backdrop-blur-md p-3 rounded-xl border border-rose-100 flex items-center gap-3">
-                <div className="w-8 h-8 rounded-full bg-rose-500 flex items-center justify-center text-white shrink-0 shadow-sm animate-pulse">
-                  <Heart className="w-4.5 h-4.5" />
-                </div>
-                <div>
-                  <p className="text-xs font-bold text-slate-950 font-display">Gotong Royong Guyub</p>
-                  <p className="text-[10px] text-slate-500">Mewujudkan Desa Wanajaya Bebas Stunting</p>
-                </div>
-              </div>
             </div>
           </div>
 

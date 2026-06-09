@@ -222,57 +222,9 @@ export const GALERI_DEFAULT: GaleriItem[] = [
   {
     id: 'g-pb-6',
     judul: 'Giat Posbindu - Foto Bersama Tim Kader',
-    deskripsi: 'Senyum hangat dan kekompakan jajaran kader pengurus Posbindu RW 015 Pesona Gading selesai giat.',
+    deskripsi: 'Sennyum hangat dan kekompakan jajaran kader pengurus Posbindu RW 015 Pesona Gading selesai giat.',
     kategori: 'Posbindu',
     gambar: 'https://lh3.googleusercontent.com/u/0/d/1s1wagoyy8wiDDe4rVNbSt5pkpCPBJI5B',
     tanggal: '2026-04-11'
-  },
-  {
-    id: 'g1',
-    judul: 'Penimbangan Balita Posyandu',
-    deskripsi: 'Kader posyandu sedang mengukur kecocokan berat dan tinggi anak secara ceria.',
-    kategori: 'Posyandu',
-    gambar: 'https://images.unsplash.com/photo-1502086223501-7ea6ecd79368?auto=format&fit=crop&q=80&w=800',
-    tanggal: '2026-06-08'
-  },
-  {
-    id: 'g2',
-    judul: 'Posbindu Cek Asam Urat',
-    deskripsi: 'Kader Posbindu menguji asam urat dan kolesterol bapak lansia ramah.',
-    kategori: 'Posbindu',
-    gambar: 'https://images.unsplash.com/photo-1584515979956-d9f6e5d09982?auto=format&fit=crop&q=80&w=800',
-    tanggal: '2026-05-30'
-  },
-  {
-    id: 'g3',
-    judul: 'Pertemuan Rutin Pleno PKK',
-    deskripsi: 'Ibu-ibu pengurus bermusyawarah di pelataran sekretariat membahas kemandirian keluarga ekonomi.',
-    kategori: 'PKK',
-    gambar: 'https://images.unsplash.com/photo-1531538606174-0f90ff5dce83?auto=format&fit=crop&q=80&w=800',
-    tanggal: '2026-05-15'
-  },
-  {
-    id: 'g4',
-    judul: 'Sosialisasi MPASI Gizi Mikro',
-    deskripsi: 'Penyuluhan oleh dokter puskemas dan demo masak puding bernilai protein tinggi.',
-    kategori: 'Posyandu',
-    gambar: 'https://images.unsplash.com/photo-1540555700478-4be289fbecef?auto=format&fit=crop&q=80&w=800',
-    tanggal: '2026-06-05'
-  },
-  {
-    id: 'g5',
-    judul: 'Senam Jantung Sehat Warga',
-    deskripsi: 'Ratusan bapak, ibu, lansia, dan balita kompak menggerakkan badan di lapangan Blok C2.',
-    kategori: 'Posbindu',
-    gambar: 'https://images.unsplash.com/photo-1571008887538-b36bb32f4571?auto=format&fit=crop&q=80&w=800',
-    tanggal: '2026-05-14'
-  },
-  {
-    id: 'g6',
-    judul: 'Pengajian Rutin Ibu Muslimah',
-    deskripsi: 'Kajian kerohanian ustadzah di masjid Al-Muhajirin, penuh kekhusyukan.',
-    kategori: 'Lainnya',
-    gambar: 'https://images.unsplash.com/photo-1609599006353-e629f1d9071f?auto=format&fit=crop&q=80&w=800',
-    tanggal: '2026-05-20'
   }
 ];

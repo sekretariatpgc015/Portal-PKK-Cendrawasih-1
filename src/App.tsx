@@ -148,7 +148,7 @@ export default function App() {
               <button
                 id="navbar-btn-login"
                 onClick={() => setLoginModalOpen(true)}
-                className="px-4 py-2 bg-gradient-to-r from-rose-500 to-pink-500 hover:from-rose-600 hover:to-pink-600 active:scale-98 text-white text-xs font-bold rounded-xl shadow-md shadow-rose-100 hover:shadow-lg transition-all cursor-pointer"
+                className="px-4 py-2 bg-[#5493f8] hover:bg-[#3d7edf] active:scale-98 text-white text-xs font-bold rounded-xl shadow-md shadow-[#5493f8]/20 hover:shadow-lg transition-all cursor-pointer"
               >
                 Masuk Admin
               </button>
