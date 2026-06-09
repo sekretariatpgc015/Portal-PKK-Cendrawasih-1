@@ -1,0 +1,6 @@
+{
+  "name": "PKK RW 015 Pesona Gading Cibitung",
+  "description": "Website resmi PKK RW 015 Pesona Gading Cibitung. Menampilkan profil, layanan Posyandu & Posbindu, berita warga, agenda kegiatan, galeri foto, dan kontak secretariat.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
