@@ -448,9 +448,7 @@ export default function App() {
               </button>
             </form>
 
-            <div className="pt-2.5 border-t border-slate-100 text-center text-[10px] text-slate-450 leading-relaxed font-sans">
-              Ketentuan dasawisma: Silakan masuk menggunakan username <strong className="text-slate-700">admin</strong> & password <strong className="text-slate-700">admin15</strong>.
-            </div>
+
           </div>
         </div>
       )}
