@@ -93,7 +93,7 @@ export default function Posyandu() {
         <div className="lg:col-span-6 flex justify-center">
           <div className="relative w-full max-w-md aspect-[4/3] rounded-2xl shadow-lg border-2 border-pink-100 bg-pink-50/30 overflow-hidden">
             <img 
-              src="/src/assets/images/posyandu_illustration_1780942125073.png" 
+              src="https://lh3.googleusercontent.com/u/0/d/1xP87bJMc_lN41Ml6jDFjpJcQbojts0dO" 
               alt="Posyandu Balita RW 015" 
               className="w-full h-full object-cover transform hover:scale-[1.02] transition-transform duration-500"
               referrerPolicy="no-referrer"

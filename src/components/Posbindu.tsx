@@ -36,7 +36,7 @@ export default function Posbindu() {
         <div className="lg:col-span-5 order-last lg:order-first flex justify-center">
           <div className="relative w-full max-w-sm aspect-[4/3] rounded-2xl shadow-lg border-2 border-sky-100 bg-sky-50/20 overflow-hidden">
             <img 
-              src="/src/assets/images/posbindu_illustration_1780942140804.png" 
+              src="https://lh3.googleusercontent.com/u/0/d/1VghSGBqOmKHesA5ZYGe-ldNNWxXFjnYD" 
               alt="Posbindu Lansia & Dewasa Berkala" 
               className="w-full h-full object-cover transform hover:scale-[1.02] transition-transform duration-500"
               referrerPolicy="no-referrer"

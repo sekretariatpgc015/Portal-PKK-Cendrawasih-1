@@ -67,7 +67,7 @@ export default function Beranda({ onNavigate, news, agendas, onSelectNews }: Ber
           <div className="lg:col-span-5 flex justify-center">
             <div className="relative w-full max-w-md aspect-[16/9] lg:aspect-square overflow-hidden rounded-2xl shadow-xl border-4 border-white/80 bg-rose-100">
               <img 
-                src="/src/assets/images/hero_pkk_community_1780942108605.png" 
+                src="https://lh3.googleusercontent.com/u/0/d/1nw-U9vvtqFpBI9nxLCqpohJsJCd8LLkn" 
                 alt="RW 015 PKK Community Team" 
                 className="w-full h-full object-cover transform hover:scale-[1.03] transition-transform duration-700"
                 referrerPolicy="no-referrer"
